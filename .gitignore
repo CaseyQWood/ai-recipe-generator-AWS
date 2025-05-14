@@ -155,3 +155,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 >>>>>>> 9d885c3e30c3ed92c95bacfd8072aa6905482cbf
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
